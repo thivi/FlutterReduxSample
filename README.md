@@ -1,5 +1,6 @@
 # sample
-
+A full tutorial about integrating Redux with Flutter can be found here:
+https://www.thearmchaircritic.org/tech-journals/managing-state-in-flutter-using-redux
 A new Flutter project.
 
 ## Getting Started
